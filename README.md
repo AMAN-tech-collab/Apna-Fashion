@@ -47,16 +47,7 @@ The technologies used depend on the current implementation of the live website.
 
 **Full-stack development plan:** React.js, Vite, Tailwind CSS, Node.js, Express.js, and MySQL can be used for the expanded version with a backend API, database, and admin dashboard.
 
-## 🏪 Shop Information
 
-| Detail | Information |
-|---|---|
-| Shop Name | Apna Fashion |
-| Owner | Chikku Malakar |
-| Address | Chhoti Ballia (Ballia Lakhminia), Begusarai, Bihar, India |
-| PIN Code | 851211 |
-| Contact Number | 6203262787 |
-| WhatsApp | +91 6203262787 |
 
 ### 📲 Contact Apna Fashion
 
