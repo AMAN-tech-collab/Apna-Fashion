@@ -61,9 +61,8 @@ The technologies used depend on the current implementation of the live website.
 ### 📲 Contact Apna Fashion
 
 - **Website:** https://aman-tech-collab.github.io/Apna-Fashion/
-- **Call:** [6203262787](tel:+916203262787)
-- **WhatsApp:** [Chat with Apna Fashion](https://wa.me/916203262787)
-- **Location:** [Find Apna Fashion on Google Maps](https://www.google.com/maps/search/?api=1&query=Apna+Fashion+Chhoti+Ballia+Begusarai+Bihar+851211)
+
+
 
 ## 💻 Run the Project Locally
 
